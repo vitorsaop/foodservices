@@ -1,0 +1,10 @@
+br/com/itconsulting/controller/IndexController.class
+br/com/itconsulting/carga/RepositoryTest.class
+br/com/itconsulting/controller/ClienteController.class
+br/com/itconsulting/model/Cliente.class
+br/com/itconsulting/repository/PedidoRepository.class
+br/com/itconsulting/model/Pedido.class
+br/com/itconsulting/repository/ItemRepository.class
+br/com/itconsulting/model/Item.class
+br/com/itconsulting/repository/ClienteRepository.class
+br/com/itconsulting/FoodservicesApplication.class
